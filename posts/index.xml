@@ -4,16 +4,33 @@
     <title>Posts on csyJoy&#39;s Blog</title>
     <link>https://csyjoy.github.io/posts/</link>
     <description>Recent content in Posts on csyJoy&#39;s Blog</description>
-    <generator>Hugo -- 0.126.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2024 01:33:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 22:39:58 +0800</lastBuildDate>
     <atom:link href="https://csyjoy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Blog</title>
-      <link>https://csyjoy.github.io/posts/first-blog/</link>
-      <pubDate>Sun, 26 May 2024 01:33:01 +0800</pubDate>
-      <guid>https://csyjoy.github.io/posts/first-blog/</guid>
-      <description>Hello World! </description>
+      <title>暑期实习总结</title>
+      <link>https://csyjoy.github.io/posts/interview/</link>
+      <pubDate>Wed, 09 Apr 2025 22:39:58 +0800</pubDate>
+      <guid>https://csyjoy.github.io/posts/interview/</guid>
+      <description>&lt;h2 id=&#34;开始准备&#34;&gt;开始准备&lt;/h2&gt;
+&lt;p&gt;大概是24年11月开始准备的Java技术栈，到2月中旬把除了微服务的所有八股都搞了一遍，加上一个Spring项目，感谢我的学习工作流，so fluent~&lt;/p&gt;
+&lt;h2 id=&#34;面试&#34;&gt;面试&lt;/h2&gt;
+&lt;p&gt;最先面的是腾讯csig的客户端，投的后台开发，然后给我整到客户端去了，wxg还是太高攀不上，简历上是Java，但是问的全是C++，严重怀疑把我捞起来的原因是想kpi我，但是凭着我对C++的肌肉记忆，算是都答出来了，最后到HR面了之后放弃了，因为是客户端，后面因为这个事情HR找到我，让我转去后台了，后来听说是HR想让我留在他们组里，还向上打了报告，因为这个事最后拒offer的时候感觉很对不起HR，我的错。&lt;/p&gt;
+&lt;p&gt;腾讯面完之后面的是字节，没错，我的处女面是字节，但是好在准备比较充分，并且一直有在刷题，所以一二面都顺利过了，抽象的是，二面之后我长达一个多星期没有推进，我以为我挂了，因为二面面试官就面了我30分钟，然后题目还巨简单，没有想到是HR离职了，一个新的HR联系到我安排了我三面，说实话，比起一二面，我更喜欢三面的面试官，感觉无论是知识的整体性还是对问题的见解都是我所不能企及的，并且顺利地被一道简单的智力题给整红了，但是最后的手撕非常非常简单，easy难度，面完30分钟就通知HR面了，HR面完说是等一周的offer审批（我懂的，横向嘛），不过哥们也不是很急，因为面到这的时候已经感觉很多都稳了，一周后Offer下来了。字节处女面即通过，也算是一桩趣事。&lt;/p&gt;
+&lt;p&gt;美团是3月24号面的二面，当时还和面试官交流了一下我的学习工作流，感觉体感很好，但是Offer一直下不来，一直再被保温，到4.1日Offer下来了，但是这时候我已经签了字节了，想了一下还是把美团拒了，秋招再战吧&lt;/p&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;腾讯(7/7)&lt;/li&gt;
+&lt;li&gt;字节(4/4)&lt;/li&gt;
+&lt;li&gt;美团(2/2)&lt;/li&gt;
+&lt;li&gt;PDD(3/4) 等待HR面&lt;/li&gt;
+&lt;li&gt;淘天(0/4) 哎，意难平&lt;/li&gt;
+&lt;li&gt;阿里云(3/3) 等结果&lt;/li&gt;
+&lt;li&gt;快手(2/3) 三面给拒了，因为当时去字节了&lt;/li&gt;
+&lt;li&gt;蚂蚁(2/3) 卡在HR面不动了，沟槽的排序&lt;/li&gt;
+&lt;li&gt;JDY(0/3) Raft算法优化没答上来，确实是没有学到位&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
